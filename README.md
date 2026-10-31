@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A coding enthusiast
-
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/brucevon/badge.svg)](https://hub.xerj.org/contributors/brucevon)
